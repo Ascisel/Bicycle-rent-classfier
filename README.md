@@ -9,3 +9,5 @@ Use 2 hidden layers perceptron with 32 hidden nuerons for 1st layer and 8 for 2n
 
 Optimizer: Adam
 Loss function: MSE
+
+Made: 22.10.2021
